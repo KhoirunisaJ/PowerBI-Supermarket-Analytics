@@ -79,9 +79,7 @@ The dashboard answers the following questions:
 
 ## 📊 Dashboard Link
 You can view or download the Power BI dashboard from this repository:  
-🔗 [View Dashboard File on GitHub](#)  
-*(Replace the # with your actual `.pbix` file link or GitHub path, e.g. `https://github.com/username/Supermarket-Sales-Dashboard/blob/main/SupermarketDashboard.pbix`)*
-
+🔗 [View Dashboard File on GitHub](https://github.com/KhoirunisaJ/PowerBI-Supermarket-Analytics/blob/main/Project%20file.pbix) 
 ---
 
 ## 🧠 Tools & Technologies
@@ -99,5 +97,5 @@ Data Analyst | Dashboard Designer
 ---
 
 ### 📸 Preview
-*(Optional: You can add a preview image below)*  
-`![Dashboard Preview](images/dashboard-preview.png)`
+  
+`![Dashboard Preview]([images/dashboard-preview.png](https://github.com/KhoirunisaJ/PowerBI-Supermarket-Analytics/blob/main/Project%20Image.pdf))`
