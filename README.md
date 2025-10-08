@@ -84,5 +84,6 @@ Data Analyst | Dashboard Designer
 ---
 
 ### 📸 Preview
-  <img width="1340" height="753" alt="image" src="https://github.com/user-attachments/assets/d53eb521-ba5e-465b-af5b-e460c88c330b" />
+  ![Project Image_page-0001](https://github.com/user-attachments/assets/54e88763-58ac-4cf5-9a76-ec1d6095063f)
+
 
