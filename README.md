@@ -1,5 +1,3 @@
-# PowerBI-Supermarket-Analytics
-Interactive Power BI dashboard visualizing supermarket sales performance, including revenue, profit, and customer insights across multiple dimensions.
 # 🛒 Supermarket Sales Dashboard
 
 ## 📊 Project Objective
@@ -29,19 +27,15 @@ The dashboard provides a clear overview of sales performance, profit trends, and
 
 ## ⚙️ Process
 The steps taken to build this project include:
-
 1. **Data Cleaning:**  
    - Checked for missing values, duplicates, and inconsistent entries.  
    - Standardized column names and date formats.
-
 2. **Data Transformation (Power Query):**  
    - Added calculated columns (e.g., Net Revenue, Profit, Gross Profit Margin).  
    - Created Month and Year columns using DAX.
-
 3. **Data Modeling:**  
    - Established relationships between fact and dimension tables.  
    - Built measures using DAX for KPIs.
-
 4. **Dashboard Design:**  
    - Designed visual hierarchy using cards, charts, and slicers.  
    - Applied consistent color theme and layout for clarity.  
@@ -50,14 +44,12 @@ The steps taken to build this project include:
 
 ## 📈 Dashboard Features
 The Power BI dashboard includes the following visuals:
-
 1. **Cards (4)** – Total Quantity, Total Revenue, Net Revenue, and Profit  
 2. **Line Chart** – Profit trend by year (2019)  
 3. **Funnel Chart** – Average Rating by Product Line  
 4. **Bar Chart** – Revenue by Product Line  
 5. **Donut Chart** – Total by Payment Category  
 6. **Table** – Product Line, Net Revenue, Profit, and GPM  
-
 All visuals are interactive and can be filtered by:
 - **Gender**  
 - **Customer Type (Member / Normal)**  
@@ -97,5 +89,5 @@ Data Analyst | Dashboard Designer
 ---
 
 ### 📸 Preview
-  
-`![Dashboard Preview]([images/dashboard-preview.png](https://github.com/KhoirunisaJ/PowerBI-Supermarket-Analytics/blob/main/Project%20Image.pdf))`
+  <img width="1340" height="753" alt="image" src="https://github.com/user-attachments/assets/d53eb521-ba5e-465b-af5b-e460c88c330b" />
+
