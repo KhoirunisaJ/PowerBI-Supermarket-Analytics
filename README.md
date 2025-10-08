@@ -50,16 +50,11 @@ The Power BI dashboard includes the following visuals:
 4. **Bar Chart** – Revenue by Product Line  
 5. **Donut Chart** – Total by Payment Category  
 6. **Table** – Product Line, Net Revenue, Profit, and GPM  
-All visuals are interactive and can be filtered by:
-- **Gender**  
-- **Customer Type (Member / Normal)**  
-- **Month**
 
 ---
 
 ## 💡 Key Business Questions (KPIs)
 The dashboard answers the following questions:
-
 1. What is the total revenue, net revenue, quantity sold, and overall profit?  
 2. Which product lines generate the highest profit and revenue?  
 3. How does customer type (Member vs Normal) influence revenue?  
